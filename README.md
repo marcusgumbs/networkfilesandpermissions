@@ -6,9 +6,7 @@
 In this tutorial we share out resources over the network and create file shares to allow read, write, or deny access to individual users or groups<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
