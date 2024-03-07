@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network File Shares and Permissions</h1>
-In this tutorial we share out resources over the network and create File Shares to allow Read, Write, or Deny access to individual users or groups<br />
+In this tutorial we share out resources over the network and create file shares to allow read, write, or deny access to individual users or groups<br />
 
 
 <h2>Video Demonstration</h2>
