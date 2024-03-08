@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img width="521" alt="Screenshot 2024-03-07 185508" src="https://github.com/marcusgumbs/networkfilesandpermissions/assets/162270050/135bcecf-e5d3-48d1-b6ab-1814e9c93fb8">
+
 </p>
 
 <h1>Network File Shares and Permissions</h1>
