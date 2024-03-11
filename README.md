@@ -4,7 +4,7 @@
 </p>
 
 <h1>Network File Shares and Permissions</h1>
-In this tutorial we share out resources over the network and create file shares to allow read, write, or deny access to individual users or groups<br />
+In this tutorial we share out resources over the network and create file shares to allow read, write, or deny access to individual users or groups.<br />
 
 
 
@@ -24,9 +24,9 @@ In this tutorial we share out resources over the network and create file shares 
 
 <h2>High-Level Steps</h2>
 
-- Create and test file shares
-- Create and test security groups
-- Verify acess or denial to file shares
+- Create and test File Shares
+- Create and test Security Groups
+- Verify access or denial to File Shares
 
 
 <h2>Actions and Observations</h2>
@@ -36,7 +36,7 @@ In this tutorial we share out resources over the network and create file shares 
 
 </p>
 <p>
-After creating read-access, write access, no access, and accouting folders I assigned permissions to different domain users and groups.  
+In this project I created a list of folders that will be given read, write, and or read/write permissions. After creating read-access, write-access, no access, and accouting folders I assigned the appropriate permissions to domain users and groups.  
 </p>
 <br />
 
@@ -45,7 +45,7 @@ After creating read-access, write access, no access, and accouting folders I ass
 
 </p>
 <p>
-From the domain controller (VM) I created a security group called Accountants and gave them read/write access to the accountant folder.
+From the domain controller (VM) I created a specific security group called Accountants and gave them read/write access to the accountant folder. This access is only for those within the security group and I'll verify that no other group or user is allowed access to the folder.
 </p>
 <br />
 
@@ -54,6 +54,6 @@ From the domain controller (VM) I created a security group called Accountants an
 
 </p>
 <p>
-Once permissions and access were assigned to different users, I verified if the files were allowed or denied access depending on the credentials of the given user.
+Once permissions and access were assigned to the different folders, groups, and users. I then verified if the files were allowed/denied access depending on the credentials of the given groups or users.
 </p>
 <br />
