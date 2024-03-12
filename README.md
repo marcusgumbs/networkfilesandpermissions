@@ -45,7 +45,7 @@ In this project I created a list of folders that will be given read, write, and 
 
 </p>
 <p>
-From the domain controller (VM) I created a specific security group called Accountants and gave them read/write access to the accountant folder. This access is only for those within the security group and I'll verify that no other group or user is allowed access to the folder.
+From the domain controller (VM) I created a specific security group called Accountants and gave them read/write access to the accountant folder. This access is only for those within the security group and it'll be  verified that no other group or user is allowed access to the folder.
 </p>
 <br />
 
